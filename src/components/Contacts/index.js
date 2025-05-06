@@ -7,10 +7,10 @@ function Contacts() {
   const [contacts, setContacts] = useState([
     {
       fullname: "Mehmet",
-      phone_name: "+91 999 999 999",
+      phone_name: "+35699619587",
     },
     {
-      fullname: "Layane",
+      fullname: "Özcan",
       phone_name: "+91 999",
     },
     {
@@ -18,11 +18,11 @@ function Contacts() {
       phone_name: "+165555 8852 9",
     },
     {
-      fullname: "Tim",
-      phone_name: "+91 999",
+      fullname: "Gökhan",
+      phone_name: "+534 999",
     },
     {
-      fullname: "Zoe Nisa",
+      fullname: "Özden",
       phone_name: "+165555 8852 9",
     },
   ]);
